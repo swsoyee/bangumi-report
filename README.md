@@ -8,8 +8,9 @@
 中文版本
 ![Anime Title in Chinese](https://github.com/swsoyee/bangumi-report/blob/master/WordCloudChinese.png)
 日文版本
-![Anime Title in Japanese](https://github.com/swsoyee/bangumi-report/blob/master/WordCloudJapanese.png)
-
+![Anime Title in Japanese](https://github.com/swsoyee/bangumi-report/blob/master/WordCloudJapanese.png)  
+### 2. 季度收看情况
+![Anime Count by Season](https://github.com/swsoyee/bangumi-report/blob/master/AnimeTagCountBySeason.png)  
 ## 程序地址
 [Bangumi Report in Jupyter Notebook](https://github.com/swsoyee/bangumi-report/blob/master/Bangumi%20Report.ipynb)
 
